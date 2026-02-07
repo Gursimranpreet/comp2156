@@ -1,6 +1,4 @@
-trigger workflow
-
-name: Node.js CI
+name: Node CI
 
 on:
   push:
