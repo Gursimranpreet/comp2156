@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gursimranpreet/comp2156/static/css/main.27ca76a1.css",
+    "main.js": "/Gursimranpreet/comp2156/static/js/main.2e48b519.js",
+    "static/js/453.587ded94.chunk.js": "/Gursimranpreet/comp2156/static/js/453.587ded94.chunk.js",
+    "index.html": "/Gursimranpreet/comp2156/index.html",
+    "main.27ca76a1.css.map": "/Gursimranpreet/comp2156/static/css/main.27ca76a1.css.map",
+    "main.2e48b519.js.map": "/Gursimranpreet/comp2156/static/js/main.2e48b519.js.map",
+    "453.587ded94.chunk.js.map": "/Gursimranpreet/comp2156/static/js/453.587ded94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.2e48b519.js"
+  ]
+}
