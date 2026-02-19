@@ -2,13 +2,22 @@
   "name": "comp2156",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/Gursimranpreet/comp2156",
+  "homepage": "https://Gursimranpreet.github.io/comp2156",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+  "keywords": [],
+  "author": "Gursimran",
+  "license": "ISC",
+  "bugs": { 
+    "url": "https://github.com/Gursimranpreet/comp2156/issues"
+    
+},
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -35,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
